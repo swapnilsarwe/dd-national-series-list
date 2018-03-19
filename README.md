@@ -36,3 +36,6 @@ List of all the Series/Serials which appeared on Doordarshan Channel on youtube
 
 ### Byomkesh Bakshi
 * Channel: [DoordarshanNational](https://www.youtube.com/user/DoordarshanNational/) - Playlist: [Byomkesh Bakshi](https://www.youtube.com/playlist?list=PLUiMfS6qzIMxiHu2N2Px1ISp5vxCm3PMo)
+
+### Premchand Stories
+* Channel: [Sukhjit Badesha](https://www.youtube.com/channel/UCiNWtWX_7OZcnExkboGAXhQ) - Playlist: [Munshi Premchand Stories](https://www.youtube.com/watch?v=qv6loTEoMvg&list=PL8fY7IRW6h0nwnvFQRfvfc824NPkimXnS)
